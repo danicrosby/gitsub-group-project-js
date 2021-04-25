@@ -27,8 +27,8 @@ Upon arriving to the packages page, the user will see a collection of package ca
 - HTML, CSS, JavaScript, Bootstrap
 
 ## Contributors
--[Dani Crosby](https://github.com/danicrosby)
--[JuanDavila](https://github.com/JuanDavila1101)
--[Lindsey Satterfield](https://github.com/lindseysatterfield)
--[Honey-Rae Swan](https://github.com/thedigitalmenagerie)
+- [Dani Crosby](https://github.com/danicrosby)
+- [JuanDavila](https://github.com/JuanDavila1101)
+- [Lindsey Satterfield](https://github.com/lindseysatterfield)
+- [Honey-Rae Swan](https://github.com/thedigitalmenagerie)
 
