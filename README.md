@@ -29,6 +29,6 @@ Upon arriving to the packages page, the user will see a collection of package ca
 ## Contributors
 -[Dani Crosby](https://github.com/danicrosby)
 -[JuanDavila](https://github.com/JuanDavila1101)
--[](https://github.com/lindseysatterfield)
--[](https://github.com/thedigitalmenagerie)
+-[Lindsey Satterfield](https://github.com/lindseysatterfield)
+-[Honey-Rae Swan](https://github.com/thedigitalmenagerie)
 
