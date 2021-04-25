@@ -3,11 +3,17 @@
 ## Overview
 This is a group project where each member primarily worked on a single page based on a shared wireframe. This wireframe is a mockup of Github. Each member used HTML, CSS, JavaScript, and Bootstrap to create their pages.
 
+## Screenshots 
+![Screen Shot 2021-04-25 at 10 50 13 AM](https://user-images.githubusercontent.com/68397076/116000016-1cc06800-a5b4-11eb-8b63-fa011704c5eb.png)
+
+
+## Figma WireFrame:
+https://www.figma.com/file/muax2mC6mYZuDM2OynrxXo/GitSubmarine-Team-Project?node-id=0%3A1
+
+
 ## Deployed Project
 https://gitsubmarine.netlify.app/
 
-## Wireframes
-https://www.figma.com/file/muax2mC6mYZuDM2OynrxXo/GitSubmarine-Team-Project?node-id=0%3A1
 
 ## Project board
 https://github.com/nss-evening-cohort-14/gitsub-e14-1-devs-to-ever-dev/projects/1
@@ -23,9 +29,6 @@ Upon arriving to the packages page, the user will see a collection of package ca
 
 ## Features
 - HTML, CSS, JavaScript, Bootstrap
-
-## Screenshots 
-https://www.figma.com/file/muax2mC6mYZuDM2OynrxXo/GitSubmarine-Team-Project?node-id=0%3A1
 
 ## Contributors
 https://github.com/danicrosby
